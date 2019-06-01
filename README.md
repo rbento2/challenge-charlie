@@ -44,3 +44,10 @@ Boa sorte e boa viagem! ;)
 <p align="center">
   <img src="ca.jpg" alt="Challange accepted" />
 </p>
+
+## App ID
+## BbaphZ6e
+## Client ID (Consumer Key)
+## dj0yJmk9WWY0RFVMSnI3SXkxJnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PTk0
+## Client Secret (Consumer Secret)
+## 3ce3588343be9bc6dd9e3dc1db0b127f5bb40e17
